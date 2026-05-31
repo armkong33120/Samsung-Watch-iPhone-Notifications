@@ -4,7 +4,7 @@
 
 ระบบเชื่อมต่อ iPhone ↔ Samsung Galaxy Watch ผ่าน BLE (Bluetooth Low Energy) แสดงการแจ้งเตือนจาก iOS แบบเต็มจอบนหน้าปัดนาฬิกา พร้อมเสียง + สั่น
 
-> 🧪 **Beta** — ทดสอบบน Samsung Galaxy Watch 4 Classic (SM-R895F) เท่านั้น
+> 🧪 **Beta** — ทดสอบบน Samsung Galaxy Watch 4 Classic (SM-R895F) / One UI Watch 8 / Android 16
 
 ## 📦 ติดตั้ง
 
