@@ -1,0 +1,23 @@
+# Android
+watch-app/app/build/
+watch-app/.gradle/
+watch-app/build/
+*.apk
+*.aab
+*.keystore
+local.properties
+
+# iOS
+ios-app/GalaxyBridge.xcodeproj/xcuserdata/
+ios-app/GalaxyBridge.xcodeproj/project.xcworkspace/xcuserdata/
+ios-app/Pods/
+*.xcworkspace
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+*.iml
+
+# Misc
+*.log

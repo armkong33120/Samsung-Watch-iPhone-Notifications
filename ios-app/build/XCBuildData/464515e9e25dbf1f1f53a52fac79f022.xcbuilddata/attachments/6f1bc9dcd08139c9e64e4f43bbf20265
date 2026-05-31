@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridge-primary.dia",
+    "emit-module-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridge-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridge-primary-emit-module.dia",
+    "pch" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridge-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridge-primary.swiftdeps"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/Bridge/BleCentralManager.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BleCentralManager~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/Bridge/BridgeGattProfile.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeGattProfile~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/Bridge/BridgeProtocol.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/BridgeProtocol~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/GalaxyBridgeApp.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/GalaxyBridgeApp~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/Health/HealthKitWriter.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/HealthKitWriter~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/Notifications/CallEventSimulator.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/CallEventSimulator~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/Notifications/LocalNotificationManager.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/LocalNotificationManager~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/UI/ConnectionViewModel.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ConnectionViewModel~partial.swiftmodule"
+  },
+  "/Users/arm/Resume_CV_F/ios-app/GalaxyBridge/UI/ContentView.swift" : {
+    "const-values" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/arm/Resume_CV_F/ios-app/build/GalaxyBridge.build/Debug-iphoneos/GalaxyBridge.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  }
+}
