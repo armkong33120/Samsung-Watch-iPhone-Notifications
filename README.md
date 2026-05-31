@@ -1,10 +1,16 @@
-# Galaxy Bridge 🌉
+# 📱→⌚ Samsung Watch + iPhone Notifications
 
-**iPhone notifications → Samsung Galaxy Watch — ใน 1 วิ**
+[![Platform](https://img.shields.io/badge/Watch-Samsung%20Galaxy%20Watch%204%20Classic-blue)](https://github.com/armkong33120/Samsung-Watch-iPhone-Notifications)
+[![iOS](https://img.shields.io/badge/iOS-26.5+-lightgrey)](https://github.com/armkong33120/Samsung-Watch-iPhone-Notifications)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-ระบบเชื่อมต่อ iPhone ↔ Samsung Galaxy Watch ผ่าน BLE (Bluetooth Low Energy) แสดงการแจ้งเตือนจาก iOS แบบเต็มจอบนหน้าปัดนาฬิกา พร้อมเสียง + สั่น
+**Forward ALL iPhone notifications to your Samsung Galaxy Watch — LINE, Messenger, WhatsApp, โทรศัพท์, SMS, อีเมล, แจ้งเตือนธนาคาร — แสดงผลเต็มจอ พร้อมเสียง + สั่น**
 
-> 🧪 **Beta** — ทดสอบบน Samsung Galaxy Watch 4 Classic (SM-R895F) / One UI Watch 8 / Android 16
+> กดติดตั้ง → เปิด Bluetooth → รับแจ้งเตือน iPhone บน Galaxy Watch ได้ทันที  
+> 🧪 **Beta** — ทดสอบบน Samsung Galaxy Watch 4 Classic (SM-R895F) / One UI Watch 8 / Android 16 / iOS 26.5
+
+### 🔍 Keywords
+`iphone notifications on samsung watch` · `connect galaxy watch to iphone` · `samsung watch ios notification bridge` · `galaxy watch receive iphone messages` · `ใช้ samsung watch กับ iphone แจ้งเตือน`
 
 ## 📦 ติดตั้ง
 
